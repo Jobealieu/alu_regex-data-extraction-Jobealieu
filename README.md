@@ -17,11 +17,11 @@ This project extracts structured data (emails, URLs, phone numbers, credit cards
 
 
 Emails: ['user@example.com', 'firstname.lastname@company.co.uk']
-URLs: ['https://www.example.com', 'https://subdomain.example.org/page']
+URLs: ['', '/page']
 Phone Numbers: ['(123) 456-7890', '123-456-7890', '123.456.7890']
 Credit Cards: ['1234 5678 9012 3456', '1234-5678-9012-3456']
 Times: ['14:30', '2:30 PM']
-HTML Tags: ['<div>', '<p>', '<img src="image.jpg">']
+HTML Tags: ['<p>', '<div class="example">', '<img src="image.jpg" alt="description">']
 Hashtags: ['#example', '#ThisIsAHashtag']
 Currency: ['$19.99', '$1,234.56']
 
