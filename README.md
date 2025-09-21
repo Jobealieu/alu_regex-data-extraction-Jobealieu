@@ -7,10 +7,9 @@ This project extracts structured data (emails, URLs, phone numbers, credit cards
 1. Clone the repository or download the project.
 2. Open the folder in VS Code.
 3. Run the test file:
-   ```bash
+
    python test_cases.py
 
-   ```
 
 ## Example Output
 
@@ -22,5 +21,3 @@ Times: ['14:30', '2:30 PM']
 HTML Tags: ['<p>', '<div class="example">', '<img src="image.jpg" alt="description">']
 Hashtags: ['#example', '#ThisIsAHashtag']
 Currency: ['$19.99', '$1,234.56']
-
-```
