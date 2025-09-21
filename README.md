@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# alu_regex-data-extraction-Jobealieu
-=======
 # Regex Data Extraction Project
 
 ## Overview
@@ -27,4 +24,3 @@ Hashtags: ['#example', '#ThisIsAHashtag']
 Currency: ['$19.99', '$1,234.56']
 
 ```
->>>>>>> 9e4ac02 (Initial commit: Regex data extraction project)
